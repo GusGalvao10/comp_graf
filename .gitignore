@@ -1,0 +1,4 @@
+.DS_Store
+C++/deps/
+C++/*.o
+C++/triangle
